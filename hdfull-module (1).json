@@ -11,7 +11,7 @@
   "quality": "1080p",
   "baseUrl": "https://www2.hdfull.one/",
   "searchBaseUrl": "https://www2.hdfull.one/buscar?q=%s",
-  "scriptUrl": "https://tu-servidor.com/hdfull-script.js",
+  "scriptUrl": "https://almanzar.github.io/hdfull-sora-module/hdfull-script.js",
   "asyncJS": true,
   "categories": [
     {
