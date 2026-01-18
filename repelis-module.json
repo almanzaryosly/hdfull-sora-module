@@ -1,0 +1,38 @@
+{
+  "sourceName": "Repelis",
+  "iconUrl": "https://repelis24.co/favicon.ico",
+  "author": {
+    "name": "AimpexTy",
+    "icon": "https://repelis24.co/favicon.ico"
+  },
+  "version": "1.0.0",
+  "language": "Spanish",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "baseUrl": "https://repelis24.co/",
+  "searchBaseUrl": "https://repelis24.co/search/%s",
+  "scriptUrl": "https://almanzaryosly.github.io/sora-modules/repelis-script.js",
+  "asyncJS": true,
+  "categories": [
+    {
+      "id": "movies",
+      "name": "Películas",
+      "url": "https://repelis24.co/peliculas"
+    },
+    {
+      "id": "series",
+      "name": "Series",
+      "url": "https://repelis24.co/series"
+    },
+    {
+      "id": "movies-premiere",
+      "name": "Estrenos",
+      "url": "https://repelis24.co/estrenos"
+    },
+    {
+      "id": "trending",
+      "name": "Tendencias",
+      "url": "https://repelis24.co/tendencias"
+    }
+  ]
+}

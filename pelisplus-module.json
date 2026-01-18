@@ -1,0 +1,48 @@
+{
+  "sourceName": "PelisPlus",
+  "iconUrl": "https://ww3.pelisplus.to/favicon.ico",
+  "author": {
+    "name": "AimpexTy",
+    "icon": "https://ww3.pelisplus.to/favicon.ico"
+  },
+  "version": "1.0.0",
+  "language": "Spanish",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "baseUrl": "https://ww3.pelisplus.to/",
+  "searchBaseUrl": "https://ww3.pelisplus.to/search?s=%s",
+  "scriptUrl": "https://almanzaryosly.github.io/sora-modules/pelisplus-script.js",
+  "asyncJS": true,
+  "categories": [
+    {
+      "id": "movies",
+      "name": "Películas",
+      "url": "https://ww3.pelisplus.to/peliculas"
+    },
+    {
+      "id": "series",
+      "name": "Series",
+      "url": "https://ww3.pelisplus.to/series"
+    },
+    {
+      "id": "genres-action",
+      "name": "Acción",
+      "url": "https://ww3.pelisplus.to/genre/accion"
+    },
+    {
+      "id": "genres-comedy",
+      "name": "Comedia",
+      "url": "https://ww3.pelisplus.to/genre/comedia"
+    },
+    {
+      "id": "genres-drama",
+      "name": "Drama",
+      "url": "https://ww3.pelisplus.to/genre/drama"
+    },
+    {
+      "id": "trending",
+      "name": "Popular",
+      "url": "https://ww3.pelisplus.to/peliculas-mas-vistas"
+    }
+  ]
+}
