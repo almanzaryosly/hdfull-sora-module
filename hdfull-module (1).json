@@ -1,0 +1,48 @@
+{
+  "sourceName": "HDFull",
+  "iconUrl": "https://hdfullcdn.cc/templates/hdfull/images/logo.png",
+  "author": {
+    "name": "AimpexTy",
+    "icon": "https://hdfullcdn.cc/favicon.ico"
+  },
+  "version": "1.0.0",
+  "language": "Spanish",
+  "streamType": "HLS",
+  "quality": "1080p",
+  "baseUrl": "https://www2.hdfull.one/",
+  "searchBaseUrl": "https://www2.hdfull.one/buscar?q=%s",
+  "scriptUrl": "https://tu-servidor.com/hdfull-script.js",
+  "asyncJS": true,
+  "categories": [
+    {
+      "id": "movies",
+      "name": "Películas",
+      "url": "https://www2.hdfull.one/peliculas"
+    },
+    {
+      "id": "series",
+      "name": "Series",
+      "url": "https://www2.hdfull.one/series"
+    },
+    {
+      "id": "movies-premiere",
+      "name": "Películas Estreno",
+      "url": "https://www2.hdfull.one/peliculas-estreno"
+    },
+    {
+      "id": "movies-updated",
+      "name": "Películas Actualizadas",
+      "url": "https://www2.hdfull.one/peliculas-actualizadas"
+    },
+    {
+      "id": "episodes-latest",
+      "name": "Últimos Episodios",
+      "url": "https://www2.hdfull.one/episodios#latest"
+    },
+    {
+      "id": "episodes-premiere",
+      "name": "Episodios Estreno",
+      "url": "https://www2.hdfull.one/episodios#premiere"
+    }
+  ]
+}
